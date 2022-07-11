@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the GitHub space of The Pediatric Neurostimulation Lab (Baumer Lab)
 
 <!--
 
